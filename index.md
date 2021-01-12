@@ -1,63 +1,59 @@
 ## Welcome to Yangyang Xu's HomePage!
 
-Yangyang Xu is pursing doctor degree under the supervision of [Dr.Shengfeng He](https://shengfenghe.com/) and [Dr.Xuemiao Xu](https://scut-mm.github.io/people.html) in South China University of Technology(SCUT). His research insterests incloud computer vision, image editing, deep learning and machine learning.
+Yangyang Xu is pursing doctor degree under the supervision of [Dr.Shengfeng He](https://shengfenghe.com/) and [Dr.Xuemiao Xu](https://scut-mm.github.io/people.html) in South China University of Technology(SCUT). His research insterests include computer vision, image editing, deep learning and machine learning.
 
-
-### Contact Information 
-
-```markdown
-Third-year Ph.D. student (Excepted Graduation in June 2021)
+### Contact Information
 School of Computer Science and Engineering, South China University of Technology
 E-mail: cnnlstm@gmail.com
 Mobile: (86)19927523189
 Address: Room 542, B3 Building, South China University of Technology, Guangzhou
 Higher Education Mega Center, Guangzhou, China, 510006
 
+![CV](https://github.com/Qingyang-Xu/Qingyang-Xu.github.io/YangyangXu_cv.pdf)
 
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-### Education
+### Publication
 ```markdown
-Ph.D. candidate, Cyberspace Security 2018.07 - PRESENT
-South China University of Technology, China
-Supervisor: Prof. Shengfeng He and Prof. Xuemiao Xu
-
-Visiting Student 2017.02 - 2018.06
-Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China
-Supervisor: Prof. Jun Cheng and Prof. Lei Wang
-
-B.S. Communication Engineering 2011.09 - 2015.06
-Yantai University, China
+∗Corresponding author
+1. Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks
+**Yangyang Xu**, Chu Han, Jing Qin, Xuemiao Xu∗, Guoqiang Han, and Shengfeng
+He∗
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+2. Holistically-Associated Transductive Zero-Shot Learning
+**Yangyang Xu**, Xuemiao Xu∗, Guoqiang Han, and Shengfeng He∗
+IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+3. Unsupervised Domain Adaptation via Importance Sampling
+Xuemiao Xu, Hai He, Huaidong Zhang, Yangyang Xu, and Shengfeng He∗
+IEEE Transactions on Circuits and Systems for Video Technology ((TCSVT)
+4. Ensemble One-Dimensional Convolution Neural Networks for Skeleton-Based
+Action Recognition
+Yangyang Xu, Jun Cheng, Lei Wang∗, Feng Liu and Dapeng Tao
+IEEE Signal Processing Letters ((SPL)
+```
+### Pre-print
+```markdown
+1. Multi-view Face Synthesis via Progressive Face Flow
+Yangyang Xu, Xuemiao Xu∗, Jianbo Jiao, Keke Li, Cheng Xu and Shengfeng
+He∗
+Submitted to IEEE Transactions on Image Processing (TIP), Major revision
+2. Invertible Grayscale with Sparsity Enforcing Priors
+Yong Du, Yangyang Xu, Taizhong Ye, Qiang Wen, Chufeng Xiao, Junyu
+Dong, Guoqiang Han, Shengfeng He∗
+Submitted to ACM Transactions on Multimedia Computing Communications
+and Applications (TOMM), Major revision
+3. Unsupervised Matting-specific Portrait Enhancement and Generation
+Shengfeng He, Zeyang Zhou, Yangyang Xu∗, Xuemiao Xu and Guoqiang Han
+Submitted to IEEE Conference on Computer Vision and Pattern Recognition
+(CVPR 2021)
+4. Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for
+Photo Upsampling
+Shengfeng He, Yang Zhou, Yong Du, Qiang Wen, Xuemiao Xu and Yangyang
+Xu∗
+Submitted to IEEE Conference on Computer Vision and Pattern Recognition
+(CVPR 2021)
+5. Deep Texture-Aware Features for Camouflaged Object Detection
+Jingjing Ren, Xiaowei Hu, Lei Zhu, Xuemiao Xu∗, Yangyang Xu, Weiming
+Wang, Zijun Deng and Pheng-Ann Heng
+Submitted to IEEE Conference on Computer Vision and Pattern Recognition
+(CVPR 2021)
 ```
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Qingyang-Xu/Qingyang-Xu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

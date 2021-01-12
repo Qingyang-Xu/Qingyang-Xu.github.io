@@ -8,8 +8,7 @@
 School of Computer Science and Engineering, South China University of Technology \\
 E-mail: cnnlstm@gmail.com \\
 Mobile: (86)19927523189 \\
-Address: Room 542, B3 Building, South China University of Technology, Guangzhou \\
-Higher Education Mega Center, Guangzhou, China, 510006
+Address: Room 542, B3 Building, South China University of Technology, Guangzhou, Higher Education Mega Center, Guangzhou, China, 510006
 
 
 ### Publication

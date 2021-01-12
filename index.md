@@ -9,7 +9,7 @@ Mobile: (86)19927523189 \\
 Address: Room 542, B3 Building, South China University of Technology, Guangzhou \\
 Higher Education Mega Center, Guangzhou, China, 510006
 
-[**CV**](https://github.com/Qingyang-Xu/Qingyang-Xu.github.io/YangyangXu_cv.pdf)
+[**Curriculum Vitae**](https://github.com/Qingyang-Xu/Qingyang-Xu.github.io/CV/YangyangXu_cv.pdf)
 
 ### Publication
 

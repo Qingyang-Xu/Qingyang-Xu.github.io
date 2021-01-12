@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Yangyang Xu's HomePage!
 
-You can use the [editor on GitHub](https://github.com/Qingyang-Xu/Qingyang-Xu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Yangyang Xu is pursing doctor degree under the supervision of [Dr.Shengfeng He](https://shengfenghe.com/) and [Dr.Xuemiao Xu](https://scut-mm.github.io/people.html) in South China University of Technology(SCUT). His research insterests incloud computer vision, image editing, deep learning and machine learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 

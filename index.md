@@ -3,11 +3,11 @@
 **Yangyang Xu** is pursing doctor degree under the supervision of [Dr.Shengfeng He](https://shengfenghe.com/) and [Dr.Xuemiao Xu](https://scut-mm.github.io/people.html) in South China University of Technology(SCUT). His research insterests include computer vision, image editing, deep learning and machine learning.
 
 ### Contact Information
-School of Computer Science and Engineering, South China University of Technology
-E-mail: cnnlstm@gmail.com
-Mobile: (86)19927523189
-Address: Room 542, B3 Building, South China University of Technology, Guangzhou
-Higher Education Mega Center, Guangzhou, China, 510006
+School of Computer Science and Engineering, South China University of Technology \\
+E-mail: cnnlstm@gmail.com \\
+Mobile: (86)19927523189 \\
+Address: Room 542, B3 Building, South China University of Technology, Guangzhou \\
+Higher Education Mega Center, Guangzhou, China, 510006 \\
 
 [**CV**](https://github.com/Qingyang-Xu/Qingyang-Xu.github.io/YangyangXu_cv.pdf)
 

@@ -1,3 +1,0 @@
-###Yangyang Xu
-
-##Contact Information

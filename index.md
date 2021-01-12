@@ -42,13 +42,13 @@ Dong, Guoqiang Han, Shengfeng He∗\\
 Submitted to ACM Transactions on Multimedia Computing Communications
 and Applications (**TOMM**), Major revision
 3. Unsupervised Matting-specific Portrait Enhancement and Generation\\
-Shengfeng He, Zeyang Zhou, **Yangyang Xu**∗, Xuemiao Xu and Guoqiang Han
+Shengfeng He, Zeyang Zhou, **Yangyang Xu∗**, Xuemiao Xu and Guoqiang Han
 Submitted to _IEEE Conference on Computer Vision and Pattern Recognition_
 (**CVPR 2021**)
 4. Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for
 Photo Upsampling\\
-Shengfeng He, Yang Zhou, Yong Du, Qiang Wen, Xuemiao Xu and Yangyang
-Xu∗
+Shengfeng He, Yang Zhou, Yong Du, Qiang Wen, Xuemiao Xu and **Yangyang
+Xu∗**
 Submitted to _IEEE Conference on Computer Vision and Pattern Recognition_
 (**CVPR 2021**)
 5. Deep Texture-Aware Features for Camouflaged Object Detection\\

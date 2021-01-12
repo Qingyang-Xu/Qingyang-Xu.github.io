@@ -7,12 +7,12 @@ School of Computer Science and Engineering, South China University of Technology
 E-mail: cnnlstm@gmail.com \\
 Mobile: (86)19927523189 \\
 Address: Room 542, B3 Building, South China University of Technology, Guangzhou \\
-Higher Education Mega Center, Guangzhou, China, 510006 \\
+Higher Education Mega Center, Guangzhou, China, 510006
 
 [**CV**](https://github.com/Qingyang-Xu/Qingyang-Xu.github.io/YangyangXu_cv.pdf)
 
 ### Publication
-```markdown
+
 ∗Corresponding author
 1. Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks
 **Yangyang Xu**, Chu Han, Jing Qin, Xuemiao Xu∗, Guoqiang Han, and Shengfeng
@@ -28,9 +28,8 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
 Action Recognition
 **Yangyang Xu**, Jun Cheng, Lei Wang∗, Feng Liu and Dapeng Tao
 IEEE Signal Processing Letters (SPL)
-```
+
 ### Pre-print
-```markdown
 1. Multi-view Face Synthesis via Progressive Face Flow
 **Yangyang Xu**, Xuemiao Xu∗, Jianbo Jiao, Keke Li, Cheng Xu and Shengfeng
 He∗
@@ -55,5 +54,3 @@ Jingjing Ren, Xiaowei Hu, Lei Zhu, Xuemiao Xu∗, **Yangyang Xu**, Weiming
 Wang, Zijun Deng and Pheng-Ann Heng
 Submitted to _IEEE Conference on Computer Vision and Pattern Recognition_
 (**CVPR 2021**)
-```
-

@@ -1,6 +1,7 @@
 ## Welcome to **Yangyang Xu**'s HomePage!
 
 **Yangyang Xu**(徐洋洋) is pursing his doctor degree under the supervision of [Dr.Shengfeng He](https://shengfenghe.com/) and [Dr.Xuemiao Xu](https://scut-mm.github.io/people.html) in South China University of Technology(SCUT). His research insterests include computer vision, image editing, deep learning and machine learning.
+[**GoogleScholar**](https://scholar.google.com/citations?user=SmlxBFAAAAAJ&hl=zh-CN)
 
 [**Curriculum Vitae**](https://raw.githubusercontent.com/Qingyang-Xu/Qingyang-Xu.github.io/main/YangyangXu_cv.pdf)
 
@@ -21,10 +22,14 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
 2. Holistically-Associated Transductive Zero-Shot Learning\\
 **Yangyang Xu**, Xuemiao Xu∗, Guoqiang Han, and Shengfeng He∗\\
 IEEE Transactions on Cognitive and Developmental Systems (**TCDS**)
-3. Unsupervised Domain Adaptation via Importance Sampling\\
+3. Invertible Grayscale with Sparsity Enforcing Priors\\
+Yong Du, **Yangyang Xu**, Taizhong Ye, Qiang Wen, Chufeng Xiao, Junyu
+Dong, Guoqiang Han, Shengfeng He∗\\
+ACM Transactions on Multimedia Computing Communications and Applications (**TOMM**)
+4. Unsupervised Domain Adaptation via Importance Sampling\\
 Xuemiao Xu, Hai He, Huaidong Zhang, **Yangyang Xu**, and Shengfeng He∗\\
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
-4. Ensemble One-Dimensional Convolution Neural Networks for Skeleton-Based
+5. Ensemble One-Dimensional Convolution Neural Networks for Skeleton-Based
 Action Recognition\\
 **Yangyang Xu**, Jun Cheng, Lei Wang∗, Feng Liu and Dapeng Tao\\
 IEEE Signal Processing Letters (SPL)
@@ -34,23 +39,23 @@ IEEE Signal Processing Letters (SPL)
 **Yangyang Xu**, Xuemiao Xu∗, Jianbo Jiao, Keke Li, Cheng Xu and Shengfeng
 He∗\\
 Submitted to IEEE Transactions on Image Processing (**TIP**), Major revision
-2. Invertible Grayscale with Sparsity Enforcing Priors\\
-Yong Du, **Yangyang Xu**, Taizhong Ye, Qiang Wen, Chufeng Xiao, Junyu
-Dong, Guoqiang Han, Shengfeng He∗\\
-Submitted to ACM Transactions on Multimedia Computing Communications
-and Applications (**TOMM**), Major revision
-3. Unsupervised Matting-specific Portrait Enhancement and Generation\\
-Shengfeng He, Zeyang Zhou, **Yangyang Xu**∗, Xuemiao Xu and Guoqiang Han\\
-Submitted to _IEEE Conference on Computer Vision and Pattern Recognition_
-(**CVPR 2021**)
-4. Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for
+2. Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for
 Photo Upsampling\\
 Shengfeng He, Yang Zhou, Yong Du, Qiang Wen, Xuemiao Xu and **Yangyang
 Xu**∗\\
-Submitted to _IEEE Conference on Computer Vision and Pattern Recognition_
-(**CVPR 2021**)
-5. Deep Texture-Aware Features for Camouflaged Object Detection\\
+Submitted to IEEE Transactions on Image Processing (**TIP**)
+3. Deep Texture-Aware Features for Camouflaged Object Detection\\
 Jingjing Ren, Xiaowei Hu, Lei Zhu, Xuemiao Xu∗, **Yangyang Xu**, Weiming
 Wang, Zijun Deng and Pheng-Ann Heng\\
-Submitted to _IEEE Conference on Computer Vision and Pattern Recognition_
-(**CVPR 2021**)
+Submitted to IEEE Transactions on Image Processing (**TIP**)
+4.Video-based GAN Inversion for Real Image Editting\\
+**Yangyang Xu**, Xuemiao Xu∗, Guoqiang Han, and Shengfeng He∗ \\
+Submitted to IEEE International Conference on Computer Vision (**ICCV 2021**)
+5. Self-supervised Matting-specific Portrait Enhancement and Generation\\
+Shengfeng He, Zeyang Zhou, **Yangyang Xu**∗, Xuemiao Xu and Guoqiang Han\\
+Submitted to _IEEE International Conference on Computer Vision_
+(**ICCV 2021**)
+### Activates
+**Reviewer**: IEEE **TNNLS**, Neural Computing, **P&G** 2020, **CVPR** 2020, **ECCV** 2020, **AAAI** 2021, **CVPR** 2021, **ICCV** 2021.
+**Seminar report**: “Graph Convolutional Neural Networks for Zero-shot Action Recognition”, City University of Hong Kong, Hong Kong. 2018.12
+

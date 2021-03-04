@@ -41,19 +41,23 @@ IEEE Signal Processing Letters (SPL)
 **Yangyang Xu**, Xuemiao Xu∗, Jianbo Jiao, Keke Li, Cheng Xu and Shengfeng
 He∗\\
 Submitted to IEEE Transactions on Image Processing (**TIP**), Major revision
+
 2. Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for
 Photo Upsampling\\
 Shengfeng He, Yang Zhou, Yong Du, Qiang Wen, Xuemiao Xu and **Yangyang
 Xu**∗\\
 Submitted to IEEE Transactions on Image Processing (**TIP**)
+
 3. Deep Texture-Aware Features for Camouflaged Object Detection\\
 Jingjing Ren, Xiaowei Hu, Lei Zhu, Xuemiao Xu∗, **Yangyang Xu**, Weiming
 Wang, Zijun Deng and Pheng-Ann Heng\\
 Submitted to IEEE Transactions on Image Processing (**TIP**)
+
 4.Video-based GAN Inversion for Real Image Editting\\
 **Yangyang Xu**, Xuemiao Xu∗, Guoqiang Han, and Shengfeng He∗ \\
 Submitted to _IEEE International Conference on Computer Vision_
 (**ICCV 2021**)
+
 5.Self-supervised Matting-specific Portrait Enhancement and Generation\\
 Shengfeng He, Zeyang Zhou, **Yangyang Xu**∗, Xuemiao Xu and Guoqiang Han\\
 Submitted to _IEEE International Conference on Computer Vision_

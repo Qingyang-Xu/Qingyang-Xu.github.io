@@ -1,6 +1,8 @@
 ## Welcome to **Yangyang Xu**'s HomePage!
 
 **Yangyang Xu**(徐洋洋) is pursing his doctor degree under the supervision of [Dr.Shengfeng He](https://shengfenghe.com/) and [Dr.Xuemiao Xu](https://scut-mm.github.io/people.html) in South China University of Technology(SCUT). His research insterests include computer vision, image editing, deep learning and machine learning.
+
+
 [**GoogleScholar**](https://scholar.google.com/citations?user=SmlxBFAAAAAJ&hl=zh-CN)
 
 [**Curriculum Vitae**](https://raw.githubusercontent.com/Qingyang-Xu/Qingyang-Xu.github.io/main/YangyangXu_cv.pdf)

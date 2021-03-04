@@ -56,6 +56,6 @@ Shengfeng He, Zeyang Zhou, **Yangyang Xu**∗, Xuemiao Xu and Guoqiang Han\\
 Submitted to _IEEE International Conference on Computer Vision_
 (**ICCV 2021**)
 ### Activates
-**Reviewer**: IEEE **TNNLS**, Neural Computing, **P&G** 2020, **CVPR** 2020, **ECCV** 2020, **AAAI** 2021, **CVPR** 2021, **ICCV** 2021.
+**Reviewer**: IEEE **TNNLS**, Neural Computing, **P&G** 2020, **CVPR** 2020, **ECCV** 2020, **AAAI** 2021, **CVPR** 2021, **ICCV** 2021.\\
 **Seminar report**: “Graph Convolutional Neural Networks for Zero-shot Action Recognition”, City University of Hong Kong, Hong Kong. 2018.12
 

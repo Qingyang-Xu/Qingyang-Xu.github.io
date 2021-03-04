@@ -52,7 +52,8 @@ Wang, Zijun Deng and Pheng-Ann Heng\\
 Submitted to IEEE Transactions on Image Processing (**TIP**)
 4.Video-based GAN Inversion for Real Image Editting\\
 **Yangyang Xu**, Xuemiao Xu∗, Guoqiang Han, and Shengfeng He∗ \\
-Submitted to IEEE International Conference on Computer Vision (**ICCV 2021**)
+Submitted to _IEEE International Conference on Computer Vision_
+(**ICCV 2021**)
 5. Self-supervised Matting-specific Portrait Enhancement and Generation\\
 Shengfeng He, Zeyang Zhou, **Yangyang Xu**∗, Xuemiao Xu and Guoqiang Han\\
 Submitted to _IEEE International Conference on Computer Vision_

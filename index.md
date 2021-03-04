@@ -54,7 +54,7 @@ Submitted to IEEE Transactions on Image Processing (**TIP**)
 **Yangyang Xu**, Xuemiao Xu∗, Guoqiang Han, and Shengfeng He∗ \\
 Submitted to _IEEE International Conference on Computer Vision_
 (**ICCV 2021**)
-5. Self-supervised Matting-specific Portrait Enhancement and Generation\\
+5.Self-supervised Matting-specific Portrait Enhancement and Generation\\
 Shengfeng He, Zeyang Zhou, **Yangyang Xu**∗, Xuemiao Xu and Guoqiang Han\\
 Submitted to _IEEE International Conference on Computer Vision_
 (**ICCV 2021**)

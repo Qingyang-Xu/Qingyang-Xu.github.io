@@ -4,7 +4,6 @@
 
 
 [**GoogleScholar**](https://scholar.google.com/citations?user=SmlxBFAAAAAJ&hl=zh-CN)
-
 [**Curriculum Vitae**](https://raw.githubusercontent.com/Qingyang-Xu/Qingyang-Xu.github.io/main/YangyangXu_cv.pdf)
 
 ### Contact Information
@@ -53,15 +52,17 @@ Jingjing Ren, Xiaowei Hu, Lei Zhu, Xuemiao Xu∗, **Yangyang Xu**, Weiming
 Wang, Zijun Deng and Pheng-Ann Heng\\
 Submitted to IEEE Transactions on Image Processing (**TIP**)
 
-4.Video-based GAN Inversion for Real Image Editting\\
-**Yangyang Xu**, Xuemiao Xu∗, Guoqiang Han, and Shengfeng He∗ \\
-Submitted to _IEEE International Conference on Computer Vision_
-(**ICCV 2021**)
+4. Class-aware Global Feature Alignment for Adaptive Object Detection\\
+Shan Xu, Huaidong Zhang, Xuemiao Xu, Xiaowei Hu, **Yangyang Xu**, Liangui Dai, Pheng-Ann Heng, Kup-Sze Choi\\
+Submitted to _The International Joint Conference on Artiﬁcial Intelligence_ (**IJCAI 2021**)
 
-5.Self-supervised Matting-specific Portrait Enhancement and Generation\\
+5. Video-based GAN Inversion for Real Image Editting\\
+**Yangyang Xu**, Xuemiao Xu∗, Guoqiang Han, and Shengfeng He∗ \\
+Submitted to _IEEE International Conference on Computer Vision_(**ICCV 2021**)
+
+6. Self-supervised Matting-specific Portrait Enhancement and Generation\\
 Shengfeng He, Zeyang Zhou, **Yangyang Xu**∗, Xuemiao Xu and Guoqiang Han\\
-Submitted to _IEEE International Conference on Computer Vision_
-(**ICCV 2021**)
+Submitted to _IEEE International Conference on Computer Vision_(**ICCV 2021**)
 
 
 ### Activates

@@ -57,8 +57,8 @@ Submitted to IEEE Transactions on Image Processing (**TIP**)
 Shan Xu, Huaidong Zhang, Xuemiao Xu, Xiaowei Hu, **Yangyang Xu**, Liangui Dai, Pheng-Ann Heng, Kup-Sze Choi\\
 Submitted to _The International Joint Conference on Artiﬁcial Intelligence_ (**IJCAI 2021**)
 
-5. Video-based GAN Inversion for Real Image Editting\\
-**Yangyang Xu**, Xuemiao Xu∗, Guoqiang Han, and Shengfeng He∗ \\
+5. From Continuity to Editability: Inverting GANs with Consecutive Images\\
+**Yangyang Xu**, Yong Du, Wenpeng Xiao, Xuemiao Xu∗, and Shengfeng He∗ \\
 Submitted to _IEEE International Conference on Computer Vision_(**ICCV 2021**)
 
 6. Self-supervised Matting-specific Portrait Enhancement and Generation\\

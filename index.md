@@ -20,25 +20,25 @@ Address: Room 542, B3 Building, South China University of Technology, Guangzhou,
 
 1. Multi-view Face Synthesis via Progressive Face Flow\\
 **Yangyang Xu**, Xuemiao Xu∗, Jianbo Jiao, Keke Li, Cheng Xu and Shengfeng He∗\\
-IEEE Transactions on Image Processing (**TIP**)
+_IEEE Transactions on Image Processing_ (**TIP**)
 2. Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks\\
 **Yangyang Xu**, Chu Han, Jing Qin, Xuemiao Xu∗, Guoqiang Han, and Shengfeng
 He∗\\
-IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
+_IEEE Transactions on Neural Networks and Learning Systems_ (**TNNLS**)
 3. Holistically-Associated Transductive Zero-Shot Learning\\
 **Yangyang Xu**, Xuemiao Xu∗, Guoqiang Han, and Shengfeng He∗\\
-IEEE Transactions on Cognitive and Developmental Systems (**TCDS**)
+_IEEE Transactions on Cognitive and Developmental Systems_ (**TCDS**)
 4. Invertible Grayscale with Sparsity Enforcing Priors\\
 Yong Du, **Yangyang Xu**, Taizhong Ye, Qiang Wen, Chufeng Xiao, Junyu
 Dong, Guoqiang Han, Shengfeng He∗\\
-ACM Transactions on Multimedia Computing Communications and Applications (**TOMM**)
+_ACM Transactions on Multimedia Computing Communications and Applications_ (**TOMM**)
 5. Unsupervised Domain Adaptation via Importance Sampling\\
 Xuemiao Xu, Hai He, Huaidong Zhang, **Yangyang Xu**, and Shengfeng He∗\\
-IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
+_IEEE Transactions on Circuits and Systems for Video Technology_ (**TCSVT**)
 6. Ensemble One-Dimensional Convolution Neural Networks for Skeleton-Based
 Action Recognition\\
 **Yangyang Xu**, Jun Cheng, Lei Wang∗, Feng Liu and Dapeng Tao\\
-IEEE Signal Processing Letters (SPL)
+_IEEE Signal Processing Letters_ (**SPL**)
 
 ### Pre-print
 
@@ -54,16 +54,17 @@ Submitted to _IEEE Transactions on Pattern Analysis and Machine Intelligence_(**
 Photo Upsampling\\
 Shengfeng He, Yang Zhou, Yong Du, Qiang Wen, Xuemiao Xu and **Yangyang
 Xu**∗\\
-Submitted to IEEE Transactions on Image Processing (**TIP**)
+Submitted to _IEEE Transactions on Image Processing_ (**TIP**)
 
 4. Deep Texture-Aware Features for Camouflaged Object Detection\\
 Jingjing Ren, Xiaowei Hu, Lei Zhu, Xuemiao Xu∗, **Yangyang Xu**, Weiming
 Wang, Zijun Deng and Pheng-Ann Heng\\
-Submitted to IEEE Transactions on Image Processing (**TIP**)
+Submitted to _IEEE Transactions on Image Processing_ (**TIP**)
 
 5. Class-aware Global Feature Alignment for Adaptive Object Detection\\
 Shan Xu, Huaidong Zhang, Xuemiao Xu, Xiaowei Hu, **Yangyang Xu**, Liangui Dai, Pheng-Ann Heng, Kup-Sze Choi\\
-Submitted to _The International Joint Conference on Artiﬁcial Intelligence_ (**IJCAI 2021**)
+Submitted to _IEEE Transactions on Circuits and Systems for Video Technology_ (**TCSVT**)
+
 
 
 ### Activates

@@ -35,10 +35,17 @@ _ACM Transactions on Multimedia Computing Communications and Applications_ (**TO
 5. Unsupervised Domain Adaptation via Importance Sampling\\
 Xuemiao Xu, Hai He, Huaidong Zhang, **Yangyang Xu**, and Shengfeng He∗\\
 _IEEE Transactions on Circuits and Systems for Video Technology_ (**TCSVT**)
-6. Ensemble One-Dimensional Convolution Neural Networks for Skeleton-Based
-Action Recognition\\
+6. Ensemble One-Dimensional Convolution Neural Networks for Skeleton-Based Action Recognition\\
 **Yangyang Xu**, Jun Cheng, Lei Wang∗, Feng Liu and Dapeng Tao\\
 _IEEE Signal Processing Letters_ (**SPL**)
+7. Human Action Recognition by Learning Spatio-Temporal Features With Deep Neural Networks \\
+Lei Wang,**Yangyang Xu**, Jun Cheng*, Jianqin Yin and Jiaji Wu  \\
+_IEEE Access_
+8. DTA: Double LSTM with temporal-wise attention network for action recognition \\
+**Yangyang Xu**, Lei Wang, Jun Cheng and Jiaji Wu \\
+_IEEE International Conference on Computer and Communications_
+
+
 
 ### Pre-print
 

@@ -59,7 +59,7 @@ Submitted to _IEEE Transactions on Image Processing_ (**TIP**)
 4. Deep Texture-Aware Features for Camouflaged Object Detection\\
 Jingjing Ren, Xiaowei Hu, Lei Zhu, Xuemiao Xu∗, **Yangyang Xu**, Weiming
 Wang, Zijun Deng and Pheng-Ann Heng\\
-Submitted to _IEEE Transactions on Image Processing_ (**TIP**)
+Submitted to _IEEE Transactions on MultiMedia_ (**TMM**)
 
 5. Class-aware Global Feature Alignment for Adaptive Object Detection\\
 Shan Xu, Huaidong Zhang, Xuemiao Xu, Xiaowei Hu, **Yangyang Xu**, Liangui Dai, Pheng-Ann Heng, Kup-Sze Choi\\

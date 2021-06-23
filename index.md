@@ -10,60 +10,60 @@
 ### Contact Information
 School of Computer Science and Engineering, South China University of Technology \\
 E-mail: cnnlstm@gmail.com \\
-Mobile: (86)19927523189 \\
+Mobile: (86)199-2752-3189 \\
 Address: Room 542, B3 Building, South China University of Technology, Guangzhou, Higher Education Mega Center, Guangzhou, China, 510006
 
 
 ### Publication
 
 ∗Corresponding author
-1. Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks\\
+
+1. Multi-view Face Synthesis via Progressive Face Flow\\
+**Yangyang Xu**, Xuemiao Xu∗, Jianbo Jiao, Keke Li, Cheng Xu and Shengfeng He∗\\
+IEEE Transactions on Image Processing (**TIP**)
+2. Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks\\
 **Yangyang Xu**, Chu Han, Jing Qin, Xuemiao Xu∗, Guoqiang Han, and Shengfeng
 He∗\\
 IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
-2. Holistically-Associated Transductive Zero-Shot Learning\\
+3. Holistically-Associated Transductive Zero-Shot Learning\\
 **Yangyang Xu**, Xuemiao Xu∗, Guoqiang Han, and Shengfeng He∗\\
 IEEE Transactions on Cognitive and Developmental Systems (**TCDS**)
-3. Invertible Grayscale with Sparsity Enforcing Priors\\
+4. Invertible Grayscale with Sparsity Enforcing Priors\\
 Yong Du, **Yangyang Xu**, Taizhong Ye, Qiang Wen, Chufeng Xiao, Junyu
 Dong, Guoqiang Han, Shengfeng He∗\\
 ACM Transactions on Multimedia Computing Communications and Applications (**TOMM**)
-4. Unsupervised Domain Adaptation via Importance Sampling\\
+5. Unsupervised Domain Adaptation via Importance Sampling\\
 Xuemiao Xu, Hai He, Huaidong Zhang, **Yangyang Xu**, and Shengfeng He∗\\
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
-5. Ensemble One-Dimensional Convolution Neural Networks for Skeleton-Based
+6. Ensemble One-Dimensional Convolution Neural Networks for Skeleton-Based
 Action Recognition\\
 **Yangyang Xu**, Jun Cheng, Lei Wang∗, Feng Liu and Dapeng Tao\\
 IEEE Signal Processing Letters (SPL)
 
 ### Pre-print
-1. Multi-view Face Synthesis via Progressive Face Flow\\
-**Yangyang Xu**, Xuemiao Xu∗, Jianbo Jiao, Keke Li, Cheng Xu and Shengfeng
-He∗\\
-Submitted to IEEE Transactions on Image Processing (**TIP**), Major revision
 
-2. Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for
+1. From Continuity to Editability: Inverting GANs with Consecutive Images\\
+**Yangyang Xu**, Yong Du, Wenpeng Xiao, Xuemiao Xu∗, and Shengfeng He∗ \\
+Submitted to _IEEE International Conference on Computer Vision_(**ICCV 2021**)
+
+2. Self-supervised Matting-specific Portrait Enhancement and Generation\\
+**Yangyang Xu**, Zeyang Zhou, Shengfeng He∗\\
+Submitted to _IEEE Transactions on Pattern Analysis and Machine Intelligence_(**TPAMI**)
+
+3. Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for
 Photo Upsampling\\
 Shengfeng He, Yang Zhou, Yong Du, Qiang Wen, Xuemiao Xu and **Yangyang
 Xu**∗\\
 Submitted to IEEE Transactions on Image Processing (**TIP**)
 
-3. Deep Texture-Aware Features for Camouflaged Object Detection\\
+4. Deep Texture-Aware Features for Camouflaged Object Detection\\
 Jingjing Ren, Xiaowei Hu, Lei Zhu, Xuemiao Xu∗, **Yangyang Xu**, Weiming
 Wang, Zijun Deng and Pheng-Ann Heng\\
 Submitted to IEEE Transactions on Image Processing (**TIP**)
 
-4. Class-aware Global Feature Alignment for Adaptive Object Detection\\
+5. Class-aware Global Feature Alignment for Adaptive Object Detection\\
 Shan Xu, Huaidong Zhang, Xuemiao Xu, Xiaowei Hu, **Yangyang Xu**, Liangui Dai, Pheng-Ann Heng, Kup-Sze Choi\\
 Submitted to _The International Joint Conference on Artiﬁcial Intelligence_ (**IJCAI 2021**)
-
-5. From Continuity to Editability: Inverting GANs with Consecutive Images\\
-**Yangyang Xu**, Yong Du, Wenpeng Xiao, Xuemiao Xu∗, and Shengfeng He∗ \\
-Submitted to _IEEE International Conference on Computer Vision_(**ICCV 2021**)
-
-6. Self-supervised Matting-specific Portrait Enhancement and Generation\\
-Shengfeng He, Zeyang Zhou, **Yangyang Xu**∗, Xuemiao Xu and Guoqiang Han\\
-Submitted to _IEEE International Conference on Computer Vision_(**ICCV 2021**)
 
 
 ### Activates
